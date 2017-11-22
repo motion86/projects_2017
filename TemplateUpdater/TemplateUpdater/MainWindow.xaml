@@ -1,0 +1,39 @@
+﻿<Window x:Class="TemplateUpdater.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TemplateUpdater"
+        mc:Ignorable="d"
+        Title="Updater" Height="948.5" Width="1202" ResizeMode="CanMinimize">
+    <Grid>
+        <ListBox x:Name="lbDestination" HorizontalAlignment="Left" Height="618" Margin="386,39,0,0" VerticalAlignment="Top" Width="320" SelectionMode="Extended" AllowDrop="True"/>
+        <ListBox x:Name="lbSource" HorizontalAlignment="Left" Height="618" Margin="26,39,0,0" VerticalAlignment="Top" Width="320" AllowDrop="True" SelectionMode="Extended"/>
+        <Label Content="Source Files" HorizontalAlignment="Left" Margin="25,9,0,0" VerticalAlignment="Top"/>
+        <Label Content="Destination" HorizontalAlignment="Left" Margin="385,9,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbReplace" HorizontalAlignment="Left" Height="22" Margin="26,691,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="680"/>
+        <TextBox x:Name="tbWith" HorizontalAlignment="Left" Height="22" Margin="26,744,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="680"/>
+        <Button x:Name="btnUpdate" Content="Update" HorizontalAlignment="Left" Margin="1096,793,0,0" VerticalAlignment="Top" Width="75" Height="40"/>
+        <Label Content="Replace.." HorizontalAlignment="Left" Margin="25,664,0,0" VerticalAlignment="Top"/>
+        <Label Content="With.." HorizontalAlignment="Left" Margin="25,717,0,0" VerticalAlignment="Top"/>
+        <Label Content="Destination" HorizontalAlignment="Left" Margin="745,9,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbOutput" HorizontalAlignment="Left" Height="726" Margin="745,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="426" FontSize="9" VerticalScrollBarVisibility="Auto"/>
+        <Button x:Name="btnRepackage" Content="RePackage" HorizontalAlignment="Left" Margin="1096,838,0,0" VerticalAlignment="Top" Width="75" Height="40"/>
+        <TextBox x:Name="tbPublishPath" HorizontalAlignment="Left" Height="22" Margin="26,797,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="680"/>
+        <Label Content="Pubish Path" HorizontalAlignment="Left" Margin="25,770,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="cbDll" Content="Copy DLLs" HorizontalAlignment="Left" Margin="997,821,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="cbAspx" Content="Copy Aspx" HorizontalAlignment="Left" Margin="997,794,0,0" VerticalAlignment="Top"/>
+        <Label Content="Dir Identifier" HorizontalAlignment="Left" Margin="25,830,0,0" VerticalAlignment="Top"/>
+        <Rectangle Fill="Transparent" HorizontalAlignment="Left" Height="80" Margin="10,819,0,0"  VerticalAlignment="Top" Width="715" AllowDrop="True" Drop="Rectangle_Drop"/>
+        <TextBox x:Name="tbDirId" HorizontalAlignment="Left" Height="22" Margin="26,857,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="680" Text=" Main"/>
+        <GroupBox Header="Special Functions" HorizontalAlignment="Left" Height="125" Margin="745,774,0,0" VerticalAlignment="Top" Width="237">
+            <Grid HorizontalAlignment="Left" Height="101" VerticalAlignment="Top" Width="227" Margin="0,0,-2,0">
+                <Button x:Name="btnRun" Content="Run" HorizontalAlignment="Left" Margin="142,8,0,0" VerticalAlignment="Top" Width="75" Height="39" Click="BtnRun_Click"/>
+                <CheckBox x:Name="cbResizeImages" Content="Resize Images" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="tbParams" HorizontalAlignment="Left" Height="23" Margin="10,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="207"/>
+                <Label x:Name="lbParams" Content="Params:" HorizontalAlignment="Left" Margin="5,49,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>

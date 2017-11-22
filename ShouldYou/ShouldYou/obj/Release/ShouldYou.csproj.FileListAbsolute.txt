@@ -1,0 +1,14 @@
+C:\Users\myers\Desktop\MyPrograms\ShouldYou\ShouldYou\bin\Release\ShouldYou.exe.config
+C:\Users\myers\Desktop\MyPrograms\ShouldYou\ShouldYou\bin\Release\ShouldYou.exe
+C:\Users\myers\Desktop\MyPrograms\ShouldYou\ShouldYou\bin\Release\ShouldYou.pdb
+C:\Users\myers\Desktop\MyPrograms\ShouldYou\ShouldYou\obj\Release\MainWindow.g.cs
+C:\Users\myers\Desktop\MyPrograms\ShouldYou\ShouldYou\obj\Release\App.g.cs
+C:\Users\myers\Desktop\MyPrograms\ShouldYou\ShouldYou\obj\Release\ShouldYou_MarkupCompile.cache
+C:\Users\myers\Desktop\MyPrograms\ShouldYou\ShouldYou\obj\Release\ShouldYou_MarkupCompile.lref
+C:\Users\myers\Desktop\MyPrograms\ShouldYou\ShouldYou\obj\Release\MainWindow.baml
+C:\Users\myers\Desktop\MyPrograms\ShouldYou\ShouldYou\obj\Release\ShouldYou.g.resources
+C:\Users\myers\Desktop\MyPrograms\ShouldYou\ShouldYou\obj\Release\ShouldYou.Properties.Resources.resources
+C:\Users\myers\Desktop\MyPrograms\ShouldYou\ShouldYou\obj\Release\ShouldYou.csproj.GenerateResource.Cache
+C:\Users\myers\Desktop\MyPrograms\ShouldYou\ShouldYou\obj\Release\ShouldYou.csproj.CoreCompileInputs.cache
+C:\Users\myers\Desktop\MyPrograms\ShouldYou\ShouldYou\obj\Release\ShouldYou.exe
+C:\Users\myers\Desktop\MyPrograms\ShouldYou\ShouldYou\obj\Release\ShouldYou.pdb

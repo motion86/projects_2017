@@ -1,0 +1,9 @@
+C:\Users\myers\Desktop\MyPrograms\junk\test-lib\bin\Debug\netstandard2.0\test-lib.deps.json
+C:\Users\myers\Desktop\MyPrograms\junk\test-lib\bin\Debug\netstandard2.0\test-lib.dll
+C:\Users\myers\Desktop\MyPrograms\junk\test-lib\obj\Debug\netstandard2.0\test-lib.csprojResolveAssemblyReference.cache
+C:\Users\myers\Desktop\MyPrograms\junk\test-lib\obj\Debug\netstandard2.0\test-lib.csproj.CoreCompileInputs.cache
+C:\Users\myers\Desktop\MyPrograms\junk\test-lib\obj\Debug\netstandard2.0\test-lib.AssemblyInfoInputs.cache
+C:\Users\myers\Desktop\MyPrograms\junk\test-lib\obj\Debug\netstandard2.0\test-lib.AssemblyInfo.cs
+C:\Users\myers\Desktop\MyPrograms\junk\test-lib\bin\Debug\netstandard2.0\test-lib.pdb
+C:\Users\myers\Desktop\MyPrograms\junk\test-lib\obj\Debug\netstandard2.0\test-lib.dll
+C:\Users\myers\Desktop\MyPrograms\junk\test-lib\obj\Debug\netstandard2.0\test-lib.pdb

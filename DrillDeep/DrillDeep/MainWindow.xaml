@@ -1,0 +1,15 @@
+﻿<Window x:Class="DrillDeep.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrillDeep"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="404.873" Width="610.275">
+    <Grid>
+        <TextBox x:Name="tbTicker" HorizontalAlignment="Center" Height="23" Margin="0,49,0,0" TextWrapping="Wrap" Text="MSFT" VerticalAlignment="Top" Width="120" TextAlignment="Center" FontSize="14"/>
+        <Label Content="Your Ticker" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontFamily="Impact" FontSize="16"/>
+        <Button x:Name="btnRun" Content="Start" HorizontalAlignment="Right" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="75"/>
+        
+    </Grid>
+</Window>

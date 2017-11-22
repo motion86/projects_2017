@@ -1,0 +1,16 @@
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\bin\Debug\TemplateUpdater.exe.config
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\bin\Debug\TemplateUpdater.exe
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\bin\Debug\TemplateUpdater.pdb
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\obj\Debug\TemplateUpdater.csprojResolveAssemblyReference.cache
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\obj\Debug\MainWindow.g.cs
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\obj\Debug\App.g.cs
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\obj\Debug\TemplateUpdater_MarkupCompile.cache
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\obj\Debug\TemplateUpdater_MarkupCompile.lref
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\obj\Debug\MainWindow.baml
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\obj\Debug\TemplateUpdater.g.resources
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\obj\Debug\TemplateUpdater.Properties.Resources.resources
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\obj\Debug\TemplateUpdater.csproj.GenerateResource.Cache
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\obj\Debug\TemplateUpdater.exe
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\obj\Debug\TemplateUpdater.pdb
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\myers\Desktop\MyPrograms\TemplateUpdater\TemplateUpdater\bin\Debug\TemplateDeploymentTools.dll

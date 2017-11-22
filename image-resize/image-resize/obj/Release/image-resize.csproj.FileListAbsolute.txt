@@ -1,0 +1,8 @@
+C:\Users\myers\Desktop\MyPrograms\image-resize\image-resize\bin\Release\image-resize.exe.config
+C:\Users\myers\Desktop\MyPrograms\image-resize\image-resize\bin\Release\image-resize.exe
+C:\Users\myers\Desktop\MyPrograms\image-resize\image-resize\bin\Release\image-resize.pdb
+C:\Users\myers\Desktop\MyPrograms\image-resize\image-resize\bin\Release\Simple.ImageResizer.dll
+C:\Users\myers\Desktop\MyPrograms\image-resize\image-resize\obj\Release\image-resize.csprojResolveAssemblyReference.cache
+C:\Users\myers\Desktop\MyPrograms\image-resize\image-resize\obj\Release\image-resize.csproj.CoreCompileInputs.cache
+C:\Users\myers\Desktop\MyPrograms\image-resize\image-resize\obj\Release\image-resize.exe
+C:\Users\myers\Desktop\MyPrograms\image-resize\image-resize\obj\Release\image-resize.pdb

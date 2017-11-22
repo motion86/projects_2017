@@ -1,0 +1,23 @@
+﻿{
+  "$schema": "http://json.schemastore.org/proxies",
+  "proxies": {
+    "ImageMangment": {
+      "matchCondition": {
+        "route": "/images/{name}",
+        "methods": [
+          "GET",
+          "POST",
+          "DELETE",
+          "PUT"
+        ]
+      },
+      "backendUri": "https://teststorage7047.blob.core.windows.net/test/images/{name}.jpg"
+    },
+    "TestRoute": {
+      "matchCondition": {
+        "route": "/test/{name}"
+      },
+      "backendUri": "http://localhost:7071/api/Function1?name={name}"
+    }
+  }
+}
